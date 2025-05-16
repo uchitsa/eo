@@ -1,238 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="14448">
+<fb version="0.9.6" size="28281">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">Judge github-events stopped by timeout after 3m0s: execution expired</error>
+    <error>
+      <v t="S">undefined method '[]' for nil</v>
+      <v t="S">Judge quality-of-service stopped by timeout after 3m0s: execution expired</v>
+    </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">302.235005661</seconds>
+    <seconds t="F">316.043953763</seconds>
     <version t="S">0.39.2</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-16T01:50:16Z</when>
+    <when t="T">2025-05-16T03:18:45Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-16T01:46:59Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <total_active_contributors t="I">10</total_active_contributors>
-    <total_contributors t="I">88</total_contributors>
-    <total_forks t="I">323</total_forks>
-    <total_repositories t="I">44</total_repositories>
-    <total_stars t="I">1588</total_stars>
+    <total_commits t="I">26433</total_commits>
+    <total_releases t="I">601</total_releases>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-16T01:45:14Z</when>
+    <when t="T">2025-05-16T03:13:30Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">977982682</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">3</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">624420387</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">482612876</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">499536612</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">510102039</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">386420319</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">574459304</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490221501</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519299365</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">403396472</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">12</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519246071</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">13</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">955159947</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">14</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">531151981</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">15</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">73056727</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">16</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490157985</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">17</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">501942888</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">18</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">570457023</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">19</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">840332960</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">20</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">721146770</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">21</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">13623548</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">22</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490258619</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">23</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">731438612</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">24</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">510082372</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">25</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
     <repository t="I">784310467</repository>
@@ -240,8 +33,53 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">26</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">3</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">570457023</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">565789755</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">510082372</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">955159947</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">531151981</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
     <repository t="I">546194972</repository>
@@ -249,17 +87,26 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">27</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">9</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">489321585</repository>
+    <repository t="I">558766137</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">28</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">10</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">721146770</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">11</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
     <repository t="I">889819508</repository>
@@ -267,53 +114,35 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">29</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">12</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">574534248</repository>
+    <repository t="I">840332960</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">30</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">13</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">543969974</repository>
+    <repository t="I">490258619</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">31</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">14</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">798766850</repository>
+    <repository t="I">510102039</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">32</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">396732517</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">33</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">731516758</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">34</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_id t="I">15</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
     <repository t="I">447446664</repository>
@@ -321,8 +150,179 @@
     <where t="S">github</where>
   </f>
   <f>
+    <_id t="I">16</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">574459304</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">17</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">13623548</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">18</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519299365</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">19</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490157985</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">20</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731516758</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">21</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">489321585</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">22</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">977982682</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">23</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501259435</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">24</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">499536612</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">25</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519246071</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">26</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">568705267</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">27</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">492899189</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">28</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">733919301</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">29</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">798766850</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">30</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">482612876</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">31</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">543969974</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">32</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">551486781</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">33</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">624420387</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">34</_id>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501942888</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
     <_id t="I">35</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
     <repository t="I">483303722</repository>
@@ -331,52 +331,52 @@
   </f>
   <f>
     <_id t="I">36</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">565789755</repository>
+    <repository t="I">731438612</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">37</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">558766137</repository>
+    <repository t="I">559427983</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">38</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">733919301</repository>
+    <repository t="I">396732517</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">39</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">492899189</repository>
+    <repository t="I">403396472</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">40</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">501259435</repository>
+    <repository t="I">671896902</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">41</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
     <repository t="I">493235807</repository>
@@ -385,540 +385,1361 @@
   </f>
   <f>
     <_id t="I">42</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">559427983</repository>
+    <repository t="I">490221501</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">43</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">568705267</repository>
+    <repository t="I">574534248</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">44</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">551486781</repository>
+    <repository t="I">73056727</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">45</_id>
-    <_time t="T">2025-05-16T01:47:16Z</_time>
+    <_time t="T">2025-05-16T03:14:05Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
     <latest t="I">0</latest>
-    <repository t="I">671896902</repository>
+    <repository t="I">386420319</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">46</_id>
-    <_time t="T">2025-05-16T01:47:17Z</_time>
+    <_time t="T">2025-05-16T03:14:07Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">501942888</repository>
-    <what t="S">events-were-scanned</what>
+    <branch t="S">renovate/org.eolang-eo-parser-0.x</branch>
+    <comments t="I">1</comments>
+    <comments_appreciated t="I">0</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">1</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1074 has been closed by @renovate[bot], with 2 HoC and 1 comments.</details>
+    <event_id t="I">49713446528</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">8</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">1074</issue>
+    <repository t="I">671896902</repository>
+    <succeeded_builds t="I">9</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-05-14T13:13:18Z</when>
     <where t="S">github</where>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">47</_id>
-    <_time t="T">2025-05-16T01:47:19Z</_time>
+    <_time t="T">2025-05-16T03:14:14Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/node-23.x</branch>
-    <details t="S">The pull request objectionary/eoc#514 has been opened by @renovate[bot].</details>
-    <event_id t="I">49740101618</event_id>
+    <branch t="S">renovate/org.eolang-eo-maven-plugin-0.x</branch>
+    <comments t="I">1</comments>
+    <comments_appreciated t="I">0</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">1</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1072 has been closed by @renovate[bot], with 18 HoC and 1 comments.</details>
+    <event_id t="I">49713441582</event_id>
     <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">514</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-15T03:25:28Z</when>
+    <failed_builds t="I">8</failed_builds>
+    <hoc t="I">18</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">1072</issue>
+    <repository t="I">671896902</repository>
+    <succeeded_builds t="I">9</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-05-14T13:13:12Z</when>
     <where t="S">github</where>
     <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">48</_id>
-    <_time t="T">2025-05-16T01:47:19Z</_time>
+    <_time t="T">2025-05-16T03:14:20Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eoc#513 has been opened by @github-actions[bot].</details>
-    <event_id t="I">49720385973</event_id>
+    <branch t="S">renovate/eo.version</branch>
+    <comments t="I">1</comments>
+    <comments_appreciated t="I">0</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">1</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1073 has been closed by @renovate[bot], with 2 HoC and 1 comments.</details>
+    <event_id t="I">49713434066</event_id>
     <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">513</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-14T15:33:51Z</when>
+    <failed_builds t="I">8</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">1073</issue>
+    <repository t="I">671896902</repository>
+    <succeeded_builds t="I">9</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-05-14T13:13:03Z</when>
     <where t="S">github</where>
-    <who t="I">41898282</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">49</_id>
-    <_time t="T">2025-05-16T01:47:19Z</_time>
+    <_time t="T">2025-05-16T03:14:27Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <details t="S">The issue objectionary/eoc#443 has been closed by @rultor.</details>
-    <event_id t="I">49720375432</event_id>
+    <details t="S">The issue objectionary/jeo-maven-plugin#1083 has been closed by @rultor.</details>
+    <event_id t="I">49713404538</event_id>
     <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">443</issue>
-    <repository t="I">489321585</repository>
+    <is_human t="I">0</is_human>
+    <issue t="I">1083</issue>
+    <repository t="I">671896902</repository>
     <what t="S">issue-was-closed</what>
-    <when t="T">2025-05-14T15:33:37Z</when>
+    <when t="T">2025-05-14T13:12:26Z</when>
     <where t="S">github</where>
     <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">50</_id>
-    <_time t="T">2025-05-16T01:47:19Z</_time>
+    <_time t="T">2025-05-16T03:14:27Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">feat/443/add-fmt-command</branch>
-    <comments t="I">22</comments>
-    <comments_appreciated t="I">4</comments_appreciated>
-    <comments_by_author t="I">8</comments_by_author>
-    <comments_by_reviewers t="I">15</comments_by_reviewers>
-    <comments_resolved t="I">5</comments_resolved>
-    <comments_to_code t="I">9</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#495 has been closed by @rultor, with 165 HoC and 22 comments.</details>
-    <event_id t="I">49720374778</event_id>
+    <branch t="S">1083-update-eo-version</branch>
+    <comments t="I">6</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">3</comments_by_author>
+    <comments_by_reviewers t="I">6</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1084 has been closed by @rultor, with 24 HoC and 6 comments.</details>
+    <event_id t="I">49713403909</event_id>
     <event_type t="S">PullRequestEvent</event_type>
     <failed_builds t="I">0</failed_builds>
-    <hoc t="I">165</hoc>
-    <issue t="I">495</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">16</succeeded_builds>
+    <hoc t="I">24</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">1084</issue>
+    <repository t="I">671896902</repository>
+    <succeeded_builds t="I">17</succeeded_builds>
     <what t="S">pull-was-merged</what>
-    <when t="T">2025-05-14T15:33:36Z</when>
+    <when t="T">2025-05-14T13:12:25Z</when>
     <where t="S">github</where>
     <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">51</_id>
-    <_time t="T">2025-05-16T01:48:04Z</_time>
+    <_time t="T">2025-05-16T03:14:42Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#511 has been closed by @github-actions[bot], with 2 HoC and 0 comments.</details>
-    <event_id t="I">49715383414</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">2</hoc>
-    <issue t="I">511</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-05-14T13:52:01Z</when>
+    <details t="S">The issue objectionary/jeo-maven-plugin#1087 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">49711701683</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1087</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2025-05-14T12:36:35Z</when>
     <where t="S">github</where>
-    <who t="I">41898282</who>
+    <who t="I">51804353</who>
   </f>
   <f>
     <_id t="I">52</_id>
-    <_time t="T">2025-05-16T01:48:05Z</_time>
+    <_time t="T">2025-05-16T03:14:42Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <details t="S">The issue objectionary/eoc#274 has been closed by @rultor.</details>
-    <event_id t="I">49715361589</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">274</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-05-14T13:51:35Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">53</_id>
-    <_time t="T">2025-05-16T01:48:05Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">274/add-latex-command</branch>
-    <comments t="I">7</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">2</comments_by_author>
-    <comments_by_reviewers t="I">9</comments_by_reviewers>
-    <comments_resolved t="I">2</comments_resolved>
-    <comments_to_code t="I">4</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#512 has been closed by @rultor, with 75 HoC and 7 comments.</details>
-    <event_id t="I">49715360789</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">75</hoc>
-    <issue t="I">512</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">16</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-05-14T13:51:34Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">54</_id>
-    <_time t="T">2025-05-16T01:48:27Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <comments t="I">23</comments>
-    <commits t="I">12</commits>
-    <details t="S">The pull request objectionary/eoc#495 has been reviewed by @yegor256 with 165 HoC and 23 comments.</details>
-    <event_id t="I">49714336557</event_id>
+    <comments t="I">9</comments>
+    <commits t="I">2</commits>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1084 has been reviewed by @yegor256 with 24 HoC and 9 comments.</details>
+    <event_id t="I">49706382082</event_id>
     <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">2</files>
-    <hoc t="I">165</hoc>
-    <issue t="I">495</issue>
-    <repository t="I">489321585</repository>
-    <review_comments t="I">9</review_comments>
+    <files t="I">11</files>
+    <hoc t="I">24</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">1084</issue>
+    <repository t="I">671896902</repository>
+    <review_comments t="I">0</review_comments>
     <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-05-14T13:31:16Z</when>
+    <when t="T">2025-05-14T10:27:24Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
-    <_id t="I">55</_id>
-    <_time t="T">2025-05-16T01:48:27Z</_time>
+    <_id t="I">53</_id>
+    <_time t="T">2025-05-16T03:14:42Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <comments t="I">11</comments>
-    <commits t="I">2</commits>
-    <details t="S">The pull request objectionary/eoc#512 has been reviewed by @yegor256 with 75 HoC and 11 comments.</details>
-    <event_id t="I">49714320875</event_id>
+    <details t="S">The issue objectionary/jeo-maven-plugin#1085 has been closed by @volodya-lombrozo.</details>
+    <event_id t="I">49705002945</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1085</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2025-05-14T09:54:52Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">54</_id>
+    <_time t="T">2025-05-16T03:14:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">1085-fix-pipelines</branch>
+    <comments t="I">14</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">7</comments_by_author>
+    <comments_by_reviewers t="I">9</comments_by_reviewers>
+    <comments_resolved t="I">3</comments_resolved>
+    <comments_to_code t="I">8</comments_to_code>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1086 has been closed by @volodya-lombrozo, with 143 HoC and 14 comments.</details>
+    <event_id t="I">49705002240</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">143</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">1086</issue>
+    <repository t="I">671896902</repository>
+    <succeeded_builds t="I">17</succeeded_builds>
+    <what t="S">pull-was-merged</what>
+    <when t="T">2025-05-14T09:54:52Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">55</_id>
+    <_time t="T">2025-05-16T03:14:52Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <comments t="I">16</comments>
+    <commits t="I">4</commits>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1086 has been reviewed by @yegor256 with 143 HoC and 16 comments.</details>
+    <event_id t="I">49701476821</event_id>
     <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">3</files>
-    <hoc t="I">75</hoc>
-    <issue t="I">512</issue>
-    <repository t="I">489321585</repository>
-    <review_comments t="I">4</review_comments>
+    <files t="I">15</files>
+    <hoc t="I">143</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">1086</issue>
+    <repository t="I">671896902</repository>
+    <review_comments t="I">8</review_comments>
     <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-05-14T13:30:58Z</when>
+    <when t="T">2025-05-14T08:35:04Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">56</_id>
-    <_time t="T">2025-05-16T01:48:27Z</_time>
+    <_time t="T">2025-05-16T03:14:52Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <comments t="I">11</comments>
-    <commits t="I">2</commits>
-    <details t="S">The pull request objectionary/eoc#512 has been reviewed by @maxonfjvipon with 75 HoC and 11 comments.</details>
-    <event_id t="I">49712255793</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">3</files>
-    <hoc t="I">75</hoc>
-    <issue t="I">512</issue>
-    <repository t="I">489321585</repository>
-    <review_comments t="I">4</review_comments>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-05-14T12:48:32Z</when>
+    <branch t="S">1085-fix-pipelines</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1086 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">49620571805</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1086</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-12T14:05:23Z</when>
     <where t="S">github</where>
-    <who t="I">37025995</who>
+    <who t="I">51804353</who>
   </f>
   <f>
     <_id t="I">57</_id>
-    <_time t="T">2025-05-16T01:48:27Z</_time>
+    <_time t="T">2025-05-16T03:14:52Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <comments t="I">23</comments>
-    <commits t="I">12</commits>
-    <details t="S">The pull request objectionary/eoc#495 has been reviewed by @maxonfjvipon with 165 HoC and 23 comments.</details>
-    <event_id t="I">49709265875</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">2</files>
-    <hoc t="I">165</hoc>
-    <issue t="I">495</issue>
-    <repository t="I">489321585</repository>
-    <review_comments t="I">9</review_comments>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-05-14T11:39:35Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">58</_id>
-    <_time t="T">2025-05-16T01:48:28Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">274/add-latex-command</branch>
-    <details t="S">The pull request objectionary/eoc#512 has been opened by @HaidarJbeily7.</details>
-    <event_id t="I">49690092858</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">512</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-14T01:29:36Z</when>
-    <where t="S">github</where>
-    <who t="I">112971443</who>
-  </f>
-  <f>
-    <_id t="I">59</_id>
-    <_time t="T">2025-05-16T01:48:28Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eoc#511 has been opened by @github-actions[bot].</details>
-    <event_id t="I">49638199903</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">511</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-12T22:01:09Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">60</_id>
-    <_time t="T">2025-05-16T01:48:28Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/eslint-monorepo</branch>
-    <comments t="I">2</comments>
+    <branch t="S">renovate/com.jcabi-jcabi-xml-0.x</branch>
+    <comments t="I">3</comments>
     <comments_appreciated t="I">1</comments_appreciated>
     <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_by_reviewers t="I">4</comments_by_reviewers>
     <comments_resolved t="I">0</comments_resolved>
     <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#498 has been closed by @rultor, with 823 HoC and 2 comments.</details>
-    <event_id t="I">49638193896</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">823</hoc>
-    <issue t="I">498</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">16</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-05-12T22:00:56Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">61</_id>
-    <_time t="T">2025-05-16T01:49:05Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/node-23.x-lockfile</branch>
-    <comments t="I">1</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#509 has been closed by @renovate[bot], with 8 HoC and 1 comments.</details>
-    <event_id t="I">49636160478</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">8</hoc>
-    <issue t="I">509</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">16</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-05-12T20:49:45Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">62</_id>
-    <_time t="T">2025-05-16T01:49:15Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#508 has been closed by @github-actions[bot], with 2 HoC and 0 comments.</details>
-    <event_id t="I">49636128032</event_id>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1082 has been closed by @rultor, with 2 HoC and 3 comments.</details>
+    <event_id t="I">49618668361</event_id>
     <event_type t="S">PullRequestEvent</event_type>
     <failed_builds t="I">0</failed_builds>
     <hoc t="I">2</hoc>
-    <issue t="I">508</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-05-12T20:48:44Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">63</_id>
-    <_time t="T">2025-05-16T01:49:16Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/node-23.x</branch>
-    <comments t="I">2</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#510 has been closed by @rultor, with 10 HoC and 2 comments.</details>
-    <event_id t="I">49636122530</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">10</hoc>
-    <issue t="I">510</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">16</succeeded_builds>
+    <is_human t="I">0</is_human>
+    <issue t="I">1082</issue>
+    <repository t="I">671896902</repository>
+    <succeeded_builds t="I">15</succeeded_builds>
     <what t="S">pull-was-merged</what>
-    <when t="T">2025-05-12T20:48:34Z</when>
+    <when t="T">2025-05-12T13:26:36Z</when>
     <where t="S">github</where>
     <who t="I">8086956</who>
   </f>
   <f>
-    <_id t="I">64</_id>
-    <_time t="T">2025-05-16T01:49:35Z</_time>
+    <_id t="I">58</_id>
+    <_time t="T">2025-05-16T03:14:59Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/node-23.x</branch>
-    <details t="S">The pull request objectionary/eoc#510 has been opened by @renovate[bot].</details>
-    <event_id t="I">49632841459</event_id>
+    <details t="S">The issue objectionary/jeo-maven-plugin#1085 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">49618576620</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1085</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2025-05-12T13:24:44Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">59</_id>
+    <_time t="T">2025-05-16T03:14:59Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">1083-update-eo-version</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1084 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">49617849881</event_id>
     <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">510</issue>
-    <repository t="I">489321585</repository>
+    <is_human t="I">1</is_human>
+    <issue t="I">1084</issue>
+    <repository t="I">671896902</repository>
     <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-12T19:09:38Z</when>
+    <when t="T">2025-05-12T13:09:44Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">60</_id>
+    <_time t="T">2025-05-16T03:14:59Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The issue objectionary/jeo-maven-plugin#1083 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">49615673405</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1083</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2025-05-12T12:23:00Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">61</_id>
+    <_time t="T">2025-05-16T03:14:59Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">de26aed93d4e08583cf6dc87f9bbc507db5ca4f5</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24179640812 has arrived to objectionary/jeo-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49493488410</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24179640812</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">671896902</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-08T09:19:15Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">62</_id>
+    <_time t="T">2025-05-16T03:14:59Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">2637b263a4745a4c5d132dabeb21334494591602</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24168344570 has arrived to objectionary/jeo-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49471170507</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24168344570</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">671896902</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-07T18:48:01Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">63</_id>
+    <_time t="T">2025-05-16T03:14:59Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">747ee1b66b70a6497e0fafcd9dd935ddc692979b</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24130564777 has arrived to objectionary/jeo-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49393901668</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24130564777</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">671896902</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-06T06:04:25Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">64</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/com.jcabi-jcabi-xml-0.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1082 has been opened by @renovate[bot].</details>
+    <event_id t="I">49341281105</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">1082</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-04T17:12:47Z</when>
     <where t="S">github</where>
     <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">65</_id>
-    <_time t="T">2025-05-16T01:49:35Z</_time>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/node-23.x-lockfile</branch>
-    <details t="S">The pull request objectionary/eoc#509 has been opened by @renovate[bot].</details>
-    <event_id t="I">49632830244</event_id>
+    <commit t="S">b1e8f4440774b44ff99da3b42c7f622646fd1036</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24103082246 has arrived to objectionary/jeo-maven-plugin, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49341271936</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24103082246</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">671896902</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-04T17:12:04Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">66</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/com.jcabi-parent-0.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1081 has been opened by @renovate[bot].</details>
+    <event_id t="I">49338531597</event_id>
     <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">509</issue>
-    <repository t="I">489321585</repository>
+    <is_human t="I">0</is_human>
+    <issue t="I">1081</issue>
+    <repository t="I">671896902</repository>
     <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-12T19:09:18Z</when>
+    <when t="T">2025-05-04T13:33:32Z</when>
     <where t="S">github</where>
     <who t="I">29139614</who>
   </f>
   <f>
-    <_id t="I">66</_id>
-    <_time t="T">2025-05-16T01:49:35Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eoc#508 has been opened by @github-actions[bot].</details>
-    <event_id t="I">49632806545</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">508</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-12T19:08:37Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
     <_id t="I">67</_id>
-    <_time t="T">2025-05-16T01:49:36Z</_time>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#506 has been closed by @github-actions[bot], with 2 HoC and 0 comments.</details>
-    <event_id t="I">49632804786</event_id>
+    <branch t="S">renovate/net.sf.saxon-saxon-he-12.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1080 has been opened by @renovate[bot].</details>
+    <event_id t="I">49303819148</event_id>
     <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">2</hoc>
-    <issue t="I">506</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-05-12T19:08:33Z</when>
+    <is_human t="I">0</is_human>
+    <issue t="I">1080</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-02T15:28:29Z</when>
     <where t="S">github</where>
-    <who t="I">41898282</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">68</_id>
-    <_time t="T">2025-05-16T01:49:37Z</_time>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/semver-7.x</branch>
-    <comments t="I">2</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#507 has been closed by @rultor, with 18 HoC and 2 comments.</details>
-    <event_id t="I">49632797945</event_id>
+    <branch t="S">renovate/org.codehaus.gmavenplus-gmavenplus-plugin-4.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1079 has been opened by @renovate[bot].</details>
+    <event_id t="I">49117603357</event_id>
     <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">18</hoc>
-    <issue t="I">507</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">16</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-05-12T19:08:21Z</when>
+    <is_human t="I">0</is_human>
+    <issue t="I">1079</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-28T03:15:24Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">69</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <comments t="I">12</comments>
+    <commits t="I">1</commits>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1077 has been reviewed by @yegor256 with 279 HoC and 12 comments.</details>
+    <event_id t="I">48982488077</event_id>
+    <event_type t="S">PullRequestReviewEvent</event_type>
+    <files t="I">31</files>
+    <hoc t="I">279</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">1077</issue>
+    <repository t="I">671896902</repository>
+    <review_comments t="I">7</review_comments>
+    <what t="S">pull-was-reviewed</what>
+    <when t="T">2025-04-23T16:04:23Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">70</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">1076_xmir_format</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1077 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">48970065654</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1077</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-23T11:26:00Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">71</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The issue objectionary/jeo-maven-plugin#1076 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">48968312910</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">1076</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2025-04-23T10:39:50Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">72</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/com.jcabi-jcabi-xml-0.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1075 has been opened by @renovate[bot].</details>
+    <event_id t="I">48797357618</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">1075</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-17T14:35:15Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">73</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/org.eolang-eo-parser-0.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1074 has been opened by @renovate[bot].</details>
+    <event_id t="I">48774307534</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">1074</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-17T02:37:12Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">74</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/eo.version</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1073 has been opened by @renovate[bot].</details>
+    <event_id t="I">48771189014</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">1073</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-16T23:45:02Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">75</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/org.eolang-eo-maven-plugin-0.x</branch>
+    <details t="S">The pull request objectionary/jeo-maven-plugin#1072 has been opened by @renovate[bot].</details>
+    <event_id t="I">48771187414</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">1072</issue>
+    <repository t="I">671896902</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-16T23:44:56Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">76</_id>
+    <_time t="T">2025-05-16T03:15:00Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">49730616382</latest>
+    <repository t="I">671896902</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">77</_id>
+    <_time t="T">2025-05-16T03:15:01Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The issue objectionary/home#322 has been opened by @volodya-lombrozo.</details>
+    <event_id t="I">49712693987</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">322</issue>
+    <repository t="I">13623548</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2025-05-14T12:57:38Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">78</_id>
+    <_time t="T">2025-05-16T03:15:01Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">f1bcc8102c53d2cd6bfb523e59cb5a4244bb0ac5</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24268378898 has arrived to objectionary/home, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49663467295</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24268378898</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">13623548</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-13T12:24:09Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">79</_id>
+    <_time t="T">2025-05-16T03:15:02Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commits t="I">765</commits>
+    <contributors>
+      <v t="I">526301</v>
+      <v t="I">33455325</v>
+      <v t="I">37025995</v>
+      <v t="I">29139614</v>
+      <v t="I">8086956</v>
+      <v t="I">40247101</v>
+      <v t="I">46539785</v>
+      <v t="I">51804353</v>
+      <v t="I">45946541</v>
+      <v t="I">70313618</v>
+    </contributors>
+    <details t="S">A new release 'New release for eo-0.56.2' has been published in objectionary/home by @rultor.</details>
+    <event_id t="I">49609111466</event_id>
+    <event_type t="S">ReleaseEvent</event_type>
+    <hoc t="I">14079</hoc>
+    <is_human t="I">0</is_human>
+    <last_commit t="S">9c9cce88d762bddfc93c19ee2f4f292710705fc3</last_commit>
+    <release t="I">217932022</release>
+    <repository t="I">13623548</repository>
+    <tag t="S">0.56.2</tag>
+    <what t="S">release-published</what>
+    <when t="T">2025-05-12T09:42:14Z</when>
     <where t="S">github</where>
     <who t="I">8086956</who>
   </f>
   <f>
-    <_id t="I">69</_id>
-    <_time t="T">2025-05-16T01:49:56Z</_time>
+    <_id t="I">80</_id>
+    <_time t="T">2025-05-16T03:15:11Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">renovate/semver-7.x</branch>
-    <details t="S">The pull request objectionary/eoc#507 has been opened by @renovate[bot].</details>
-    <event_id t="I">49629434672</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">507</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-12T17:33:33Z</when>
+    <details t="S">A new tag '0.56.2' has been created in objectionary/home by @rultor.</details>
+    <event_id t="I">49609079520</event_id>
+    <event_type t="S">CreateEvent</event_type>
+    <is_human t="I">0</is_human>
+    <repository t="I">13623548</repository>
+    <tag t="S">0.56.2</tag>
+    <what t="S">tag-was-created</what>
+    <when t="T">2025-05-12T09:41:28Z</when>
     <where t="S">github</where>
-    <who t="I">29139614</who>
+    <who t="I">8086956</who>
   </f>
   <f>
-    <_id t="I">70</_id>
-    <_time t="T">2025-05-16T01:49:56Z</_time>
+    <_id t="I">81</_id>
+    <_time t="T">2025-05-16T03:15:11Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eoc#506 has been opened by @github-actions[bot].</details>
-    <event_id t="I">49629416908</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">506</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-12T17:33:03Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">71</_id>
-    <_time t="T">2025-05-16T01:49:56Z</_time>
-    <_version t="S">0.9.10/0.39.2/</_version>
-    <branch t="S">version-up</branch>
+    <branch t="S">renovate/eo.version</branch>
     <comments t="I">3</comments>
     <comments_appreciated t="I">1</comments_appreciated>
     <comments_by_author t="I">0</comments_by_author>
     <comments_by_reviewers t="I">3</comments_by_reviewers>
     <comments_resolved t="I">0</comments_resolved>
     <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#477 has been closed by @github-actions[bot], with 2 HoC and 3 comments.</details>
-    <event_id t="I">49629413913</event_id>
+    <details t="S">The pull request objectionary/home#319 has been closed by @renovate[bot], with 2 HoC and 3 comments.</details>
+    <event_id t="I">49608667469</event_id>
     <event_type t="S">PullRequestEvent</event_type>
     <failed_builds t="I">0</failed_builds>
     <hoc t="I">2</hoc>
-    <issue t="I">477</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
+    <is_human t="I">0</is_human>
+    <issue t="I">319</issue>
+    <repository t="I">13623548</repository>
+    <succeeded_builds t="I">12</succeeded_builds>
     <what t="S">pull-was-closed</what>
-    <when t="T">2025-05-12T17:32:57Z</when>
+    <when t="T">2025-05-12T09:31:48Z</when>
     <where t="S">github</where>
-    <who t="I">41898282</who>
+    <who t="I">29139614</who>
   </f>
   <f>
-    <_id t="I">72</_id>
-    <_time t="T">2025-05-16T01:49:58Z</_time>
+    <_id t="I">82</_id>
+    <_time t="T">2025-05-16T03:15:18Z</_time>
     <_version t="S">0.9.10/0.39.2/</_version>
-    <details t="S">The issue objectionary/eoc#503 has been closed by @rultor.</details>
-    <event_id t="I">49629406376</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">503</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-05-12T17:32:45Z</when>
+    <branch t="S">update-eo-0.56.2</branch>
+    <comments t="I">0</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">5</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/home#320 has been closed by @yegor256, with 2215 HoC and 0 comments.</details>
+    <event_id t="I">49608641734</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2215</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">320</issue>
+    <repository t="I">13623548</repository>
+    <succeeded_builds t="I">12</succeeded_builds>
+    <what t="S">pull-was-merged</what>
+    <when t="T">2025-05-12T09:31:12Z</when>
     <where t="S">github</where>
-    <who t="I">8086956</who>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">83</_id>
+    <_time t="T">2025-05-16T03:15:24Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The issue objectionary/home#321 has been opened by @yegor256.</details>
+    <event_id t="I">49608623761</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">321</issue>
+    <repository t="I">13623548</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2025-05-12T09:30:49Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">84</_id>
+    <_time t="T">2025-05-16T03:15:24Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <comments t="I">5</comments>
+    <commits t="I">1</commits>
+    <details t="S">The pull request objectionary/home#320 has been reviewed by @yegor256 with 2215 HoC and 5 comments.</details>
+    <event_id t="I">49608464979</event_id>
+    <event_type t="S">PullRequestReviewEvent</event_type>
+    <files t="I">110</files>
+    <hoc t="I">2215</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">320</issue>
+    <repository t="I">13623548</repository>
+    <review_comments t="I">0</review_comments>
+    <what t="S">pull-was-reviewed</what>
+    <when t="T">2025-05-12T09:27:09Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">85</_id>
+    <_time t="T">2025-05-16T03:15:25Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">update-eo-0.56.2</branch>
+    <details t="S">The pull request objectionary/home#320 has been opened by @maxonfjvipon.</details>
+    <event_id t="I">49603291400</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">1</is_human>
+    <issue t="I">320</issue>
+    <repository t="I">13623548</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-05-12T07:21:25Z</when>
+    <where t="S">github</where>
+    <who t="I">37025995</who>
+  </f>
+  <f>
+    <_id t="I">86</_id>
+    <_time t="T">2025-05-16T03:15:25Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">1130d002e31845eb82c478c8ae8846361edd7c11</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24168213197 has arrived to objectionary/home, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49470897680</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24168213197</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">13623548</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-07T18:39:57Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">87</_id>
+    <_time t="T">2025-05-16T03:15:25Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">1c179fde7ce449b9f8d718567bac6f2768a13ad4</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24130115519 has arrived to objectionary/home, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49393059386</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24130115519</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">13623548</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-06T05:26:50Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">88</_id>
+    <_time t="T">2025-05-16T03:15:25Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <commit t="S">0e48934ffb3d76cc4f045e4cdf2009741675e38c</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #24103061507 has arrived to objectionary/home, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">49341242505</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">24103061507</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">13623548</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-05-04T17:09:43Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">89</_id>
+    <_time t="T">2025-05-16T03:15:25Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">renovate/eo.version</branch>
+    <details t="S">The pull request objectionary/home#319 has been opened by @renovate[bot].</details>
+    <event_id t="I">49178307647</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">319</issue>
+    <repository t="I">13623548</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-04-29T11:36:45Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">90</_id>
+    <_time t="T">2025-05-16T03:15:25Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <branch t="S">update-eo-0.56.0</branch>
+    <comments t="I">0</comments>
+    <comments_appreciated t="I">0</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">0</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/home#316 has been closed by @maxonfjvipon, with 14783 HoC and 0 comments.</details>
+    <event_id t="I">49178287431</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">1</failed_builds>
+    <hoc t="I">14783</hoc>
+    <is_human t="I">1</is_human>
+    <issue t="I">316</issue>
+    <repository t="I">13623548</repository>
+    <succeeded_builds t="I">10</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-04-29T11:36:13Z</when>
+    <where t="S">github</where>
+    <who t="I">37025995</who>
+  </f>
+  <f>
+    <_id t="I">91</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">73056727</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">92</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519299365</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">93</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">493235807</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">94</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">499536612</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">95</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">889819508</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">96</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">551486781</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">97</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">721146770</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">98</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">955159947</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">99</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">977982682</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">100</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519246071</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">101</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">798766850</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">102</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">568705267</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">103</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">733919301</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">104</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731516758</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">105</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">531151981</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">106</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">574459304</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">107</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">483303722</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">108</_id>
+    <_time t="T">2025-05-16T03:15:43Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">559427983</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">109</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The '#enhancement' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#1076.</details>
+    <issue t="I">1076</issue>
+    <label t="S">enhancement</label>
+    <repository t="I">671896902</repository>
+    <what t="S">label-was-attached</what>
+    <when t="T">2025-04-23T10:39:49Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">111</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490258619</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">112</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">570457023</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">113</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490221501</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">114</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">784310467</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">115</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">510102039</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">116</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">386420319</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">117</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">403396472</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">118</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The '#bug' label was attached by @yegor256 to the issue objectionary/home#321.</details>
+    <issue t="I">321</issue>
+    <label t="S">bug</label>
+    <repository t="I">13623548</repository>
+    <what t="S">label-was-attached</what>
+    <when t="T">2025-05-12T09:30:49Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">120</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501942888</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">121</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">840332960</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">122</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">489321585</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">123</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">492899189</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">124</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">482612876</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">125</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">447446664</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">126</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">574534248</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">127</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">558766137</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">128</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731438612</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">129</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">543969974</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">130</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490157985</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">131</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501259435</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">132</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">624420387</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">133</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">510082372</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">134</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">565789755</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">135</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">396732517</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">136</_id>
+    <_time t="T">2025-05-16T03:15:44Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">546194972</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">137</_id>
+    <_time t="T">2025-05-16T03:15:45Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The '#enhancement' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#1083.</details>
+    <issue t="I">1083</issue>
+    <label t="S">enhancement</label>
+    <repository t="I">671896902</repository>
+    <what t="S">label-was-attached</what>
+    <when t="T">2025-05-12T12:23:00Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">139</_id>
+    <_time t="T">2025-05-16T03:15:45Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The '#enhancement' label was attached by @volodya-lombrozo to the issue objectionary/home#322.</details>
+    <issue t="I">322</issue>
+    <label t="S">enhancement</label>
+    <repository t="I">13623548</repository>
+    <what t="S">label-was-attached</what>
+    <when t="T">2025-05-14T12:57:38Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">141</_id>
+    <_time t="T">2025-05-16T03:15:45Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The '#bug' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#1085.</details>
+    <issue t="I">1085</issue>
+    <label t="S">bug</label>
+    <repository t="I">671896902</repository>
+    <what t="S">label-was-attached</what>
+    <when t="T">2025-05-12T13:24:43Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">143</_id>
+    <_time t="T">2025-05-16T03:15:45Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">13623548</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">144</_id>
+    <_time t="T">2025-05-16T03:15:45Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <details t="S">The '#enhancement' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#1087.</details>
+    <issue t="I">1087</issue>
+    <label t="S">enhancement</label>
+    <repository t="I">671896902</repository>
+    <what t="S">label-was-attached</what>
+    <when t="T">2025-05-14T12:36:35Z</when>
+    <where t="S">github</where>
+    <who t="I">51804353</who>
+  </f>
+  <f>
+    <_id t="I">145</_id>
+    <_time t="T">2025-05-16T03:15:45Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">671896902</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">146</_id>
+    <_time t="T">2025-05-16T03:15:56Z</_time>
+    <_version t="S">0.9.10/0.39.2/</_version>
+    <average_release_interval t="F">343524.5</average_release_interval>
+    <since t="T">2025-04-18T03:15:45Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-16T03:15:45Z</when>
   </f>
 </fb>
