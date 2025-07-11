@@ -399,6 +399,13 @@
         </xs:documentation>
       </xs:annotation>
     </xs:attribute>
+    <xs:attribute name="author" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:pattern value="[a-z]+"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
   </xs:complexType>
   <xs:element name="object" type="object"/>
 </xs:schema>
